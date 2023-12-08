@@ -12,7 +12,7 @@ pip install opencv-python face_recognition
 
 Run the script:
 ```bash
-python face_detection_and_capture.py
+python capture.py
 ```
 The script will initialize the camera and display a live feed with rectangles around detected faces.
 
